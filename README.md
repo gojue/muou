@@ -3,7 +3,7 @@ muou是一个网络包测试工具，可以自定义TCP Option的内容，用于
 
 
 ## 用法
-增加Maximum segment size，时间戳值为：`1460`。
+修改Maximum segment size，MSS值为：`1460`。
 * Kind: Maximum Segment Size (2)
 * Length: 4
 * MSS Value: 1460
